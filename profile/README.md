@@ -1,5 +1,5 @@
 # Dyalog Training
-The repositories found herein contain supporting materials for training conducted conducted by or on behalf of Dyalog, LTD.
+The repositories found herein contain supporting materials for training conducted by or on behalf of Dyalog, LTD.
 
 ## Repository Naming Scheme
 To help you navigate through the repositories, we will attempt to find a consistent naming scheme for each type of training. Time will tell how successful we are. 
